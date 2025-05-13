@@ -1,18 +1,18 @@
 # Google_Play_Store_Apps_rating_Prediction_p1
 ## Project Overview
-Project Title: Google Play Store Apps Rating Prediction
-Level: Advance
-Tools: Visual Studio/Jupyter Notebook, Excel, Postgre SQL, Tableau
-Languages: Python, SQL
-Database`google_paly_store-1.xlsx`
+#### Project Title: Google Play Store Apps Rating Prediction
+#### Level: Advance
+#### Tools: Visual Studio/Jupyter Notebook, Excel, Postgre SQL, Tableau
+#### Languages: Python, SQL
+#### Database`google_paly_store-1.xlsx`
 
 This project is designed to demonstrate Excel, python, SQL, Tableau skills and techniques typically used by data analysts to explore, clean, and analyze google play store apps rating data. The project involves setting up a google paly store database, performing exploratory data analysis (EDA), visualization, machine learning techniques and answering specific business questions through python, SQL queries. This project is ideal for those who are starting their journey in data analysis and want to build a solid foundation in python, SQL, tableau.
 
 ## Objectives
-1. Set up a google play store database: Create and predicting google paly store apps rating database with the provided google play store data.
+1. Set up a google play store database: Create and predicting google play store apps rating database with the provided google play store data.
 2. Data Cleaning: Identify and remove any records with missing or null values.
 3. Exploratory Data Analysis (EDA): Perform basic exploratory data analysis to understand the dataset.
-4. Finance Analysis: Use python & SQL to answer specific business questions and derive insights from the googlle play sote data.
+4. Finance Analysis: Use python & SQL to answer specific business questions and derive insights from the google play sote data.
 
 ## 1. Python Project Structure
 ## About Dataset
